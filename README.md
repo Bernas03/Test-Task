@@ -8,7 +8,7 @@ This Python script performs one-way synchronization between two folders, copying
 ## Usage
 Run the program:
    ```bash
-   python sync.py <source_folder> <replica_folder> <interval_in_seconds> <log_file_path>
+   python task.py <source_folder> <replica_folder> <interval_in_seconds> <log_file_path>
    ```
 
    - `<source_folder>`: Path to the source folder.
