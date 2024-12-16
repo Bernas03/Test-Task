@@ -31,4 +31,4 @@ In this case, the program will create the `test_replica` folder, which will be o
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
